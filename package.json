@@ -1,0 +1,15 @@
+{
+  "name": "telegram-bot",
+  "version": "1.0.0",
+  "description": "A Telegram bot for handling various services like gift cards, virtual numbers, social media boosting, and cryptocurrency transactions.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "node-telegram-bot-api": "^0.61.0"
+  },
+  "author": "Ubong Patrick",
+  "license": "MIT"
+}
