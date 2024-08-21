@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "dotenv": "^16.0.3",
+    "express": "^4.19.2",
     "node-telegram-bot-api": "^0.61.0"
   },
   "author": "Ubong Patrick",
