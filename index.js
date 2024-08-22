@@ -206,7 +206,7 @@ const TelegramBot = require('node-telegram-bot-api');
 
 // Replace with your Telegram Bot token and admin ID
 const token = '7325518318:AAFT5ayZBY6MfhMjoGKZhe1-6_2yyBAzKAw'; 
-const adminId = '';
+const adminId = '5388517264';
 
 const app = express();
 const bot = new TelegramBot(token, { polling: true });
